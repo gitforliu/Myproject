@@ -1,8 +1,1 @@
 common01
-<<<<<<< .mine
-common02commonproject
-=======
-common02commonproject
->>>>>>> .theirs
-commitproject02
-common03
